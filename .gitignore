@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+anaconda_projects/
+content/
+stuff/
 
 # Distribution / packaging
 .Python
